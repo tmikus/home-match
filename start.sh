@@ -6,4 +6,4 @@ SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
 pip install -r requirements.txt
 
-jupyter notebook
+jupyter notebook HomeMatch.ipynb
